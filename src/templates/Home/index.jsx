@@ -4,7 +4,6 @@ import "./styles.css";
 
 import { Posts } from "../../components/Posts";
 import { loadPosts } from "../../utils/load-posts";
-import { PostCard } from "../../components/PostCard";
 import { Button } from "../../components/Button";
 import { TextInput } from "../../components/TextInput";
 
